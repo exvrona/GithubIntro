@@ -6,3 +6,5 @@ Banana
 Grapes
 Biscuit
 Cereal
+Cucumbers
+Oranges
